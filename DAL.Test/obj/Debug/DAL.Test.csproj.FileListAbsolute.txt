@@ -1,0 +1,219 @@
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\DAL.Test.dll.config
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\DAL.Test.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\DAL.Test.pdb
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Castle.Core.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\DAL.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Moq.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\nunit.framework.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\System.Buffers.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\System.Collections.Immutable.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\System.Memory.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\System.Numerics.Vectors.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\xunit.abstractions.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\xunit.assert.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\xunit.core.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\xunit.execution.desktop.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\EntityFramework.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\DAL.pdb
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\DAL.dll.config
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Castle.Core.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\Moq.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\System.Buffers.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\System.Collections.Immutable.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\System.Memory.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\System.Numerics.Vectors.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\nunit.framework.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\xunit.abstractions.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\xunit.assert.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\xunit.core.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\xunit.execution.desktop.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\bin\Debug\EntityFramework.xml
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\obj\Debug\DAL.Test.csproj.AssemblyReference.cache
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\obj\Debug\DAL.Test.csproj.SuggestedBindingRedirects.cache
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\obj\Debug\DAL.Test.csproj.CoreCompileInputs.cache
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\obj\Debug\DAL.Test.csproj.CopyComplete
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\obj\Debug\DAL.Test.dll
+E:\Учеба\3 курс\сем 1\ТРПЗ\lab7\Lab3Shish\DAL.Test\obj\Debug\DAL.Test.pdb
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\DAL.Test.dll.config
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\DAL.Test.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\DAL.Test.pdb
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Castle.Core.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\DAL.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Moq.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\nunit.framework.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\System.Buffers.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\System.Collections.Immutable.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\System.Memory.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\System.Numerics.Vectors.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\xunit.abstractions.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\xunit.assert.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\xunit.core.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\xunit.execution.desktop.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\EntityFramework.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\DAL.pdb
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\DAL.dll.config
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Castle.Core.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\Moq.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\System.Buffers.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\System.Collections.Immutable.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\System.Memory.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\System.Numerics.Vectors.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\nunit.framework.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\xunit.abstractions.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\xunit.assert.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\xunit.core.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\xunit.execution.desktop.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\bin\Debug\EntityFramework.xml
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\obj\Debug\DAL.Test.csproj.AssemblyReference.cache
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\obj\Debug\DAL.Test.csproj.SuggestedBindingRedirects.cache
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\obj\Debug\DAL.Test.csproj.CoreCompileInputs.cache
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\obj\Debug\DAL.Test.csproj.CopyComplete
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\obj\Debug\DAL.Test.dll
+E:\Учеба\3 курс\Іншм\Шишлов\ТРПЗ\Матеріали\Лаб7-8\Lab3Shish\DAL.Test\obj\Debug\DAL.Test.pdb
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\DAL.Test.dll.config
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\DAL.Test.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\DAL.Test.pdb
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Castle.Core.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\DAL.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Moq.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\xunit.abstractions.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\xunit.assert.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\xunit.core.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\xunit.execution.desktop.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\DAL.dll.config
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Castle.Core.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\Moq.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\System.Collections.Immutable.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\nunit.framework.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\xunit.abstractions.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\xunit.assert.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\xunit.core.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\xunit.execution.desktop.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\obj\Debug\DAL.Test.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\obj\Debug\DAL.Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\obj\Debug\DAL.Test.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\obj\Debug\DAL.Test.csproj.CopyComplete
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\obj\Debug\DAL.Test.dll
+C:\Users\User\Desktop\Lab3Shish (2)\Lab3Shish\DAL.Test\obj\Debug\DAL.Test.pdb
